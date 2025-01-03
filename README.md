@@ -5,6 +5,6 @@ FSML ottimizza la gestione degli sponsor per film e serie TV su piattaforme di s
 
 ### Funzionamento di FSML:
 - **FRAME**: Salvataggio del frame del video.
-- SEGMENTATION: Segmentazione del frame e salvataggio dell'immagine PNG del prodotto selezionato dall'utente.
-- MATCHING: L'immagine PNG del prodotto viene confrontata con quelle dei prodotti degli sponsor.
-- LINK: Una volta identificato il prodotto, viene aperta la pagina web per acquistarlo.
+- **SEGMENTATION**: Segmentazione del frame e salvataggio dell'immagine PNG del prodotto selezionato dall'utente.
+- **MATCHING**: L'immagine PNG del prodotto viene confrontata con quelle dei prodotti degli sponsor.
+- **LINK**: Una volta identificato il prodotto, viene aperta la pagina web per acquistarlo.
