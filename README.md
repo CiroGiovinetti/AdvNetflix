@@ -1,5 +1,5 @@
 # FSML
-Dal click al link!
+**Dal click al link!**
 
 FSML ottimizza la gestione degli sponsor per film e serie TV su piattaforme di streaming. Grazie a questa tecnologia, l'utente può mettere in pausa il contenuto e cliccare sul prodotto che desidera acquistare.
 
